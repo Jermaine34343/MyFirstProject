@@ -1,3 +1,3 @@
-1. # My Project
-2.
-3. This is the readme for my project.
+# My Project
+
+This is the readme for my project.
